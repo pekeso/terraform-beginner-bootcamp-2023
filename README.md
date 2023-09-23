@@ -6,7 +6,7 @@ This is the Terraform Beginner Bootcamp by Andrew Brown & Team.
 
 The first week is about setting up the environment for the bootcamp and quite a bunch of introductory topics. 
 
-### SEMANTIC VERSIONING 
+### SEMANTIC VERSIONING :mage:
 
 Given a version number **MAJOR.MINOR.PATCH**, increment the:
 
